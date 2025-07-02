@@ -135,7 +135,7 @@ Update the social media links in the contact section:
 1. Push your code to GitHub
 2. Go to repository Settings > Pages
 3. Select source branch (usually `main`)
-4. Your site will be available at `https://username.github.io/repository-name`
+4. Your site will be available at `https://toxic-for-code.github.io/Portfolio`
 
 ### Netlify
 1. Connect your GitHub repository to Netlify
